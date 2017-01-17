@@ -3,7 +3,7 @@
     partial class Form1
     {
         /// <summary>
-        /// Обязательная переменная конструктора.блаблаблабла
+        /// Обязательная переменная конструктора.блаблаблабла   Вот так тебе=Р
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
